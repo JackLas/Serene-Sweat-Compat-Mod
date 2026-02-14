@@ -19,7 +19,7 @@ import org.slf4j.Logger;
 public class SereneSweatCompatMod
 {
     public static final String MODID = "serenesweatcompatmod";
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
 
     public SereneSweatCompatMod(FMLJavaModLoadingContext context)
     {
