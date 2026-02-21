@@ -4,7 +4,7 @@
   "package": "net.jackston.serenesweatcompatmod.mixin",
   "refmap": "mixins.serenesweatcompatmod.refmap.json",
   "mixins": [
-    "ModFertilityMixin"
+    "SeasonalCropGrowthHandlerMixin"
   ],
   "client": [
   ],
